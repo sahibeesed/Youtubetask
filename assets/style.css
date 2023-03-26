@@ -1,0 +1,35 @@
+#yt{
+    width: 10%;
+    height: 30px;
+    margin-left: 20px;
+}
+
+#hm{
+    border: 0;
+    display: flex;
+    transition: all .3s;
+    margin-top: 20px;
+    width: 10%;
+    height: 30px;
+    justify-content: space-around;
+    text-align: center;
+    background-color: white;
+    
+}
+#hm:hover{
+    background-color: grey;
+}
+#shr{
+    border: 0;
+    display: flex;
+    transition: all .3s;
+    margin-top: 20px;
+    width: 10%;
+    height: 30px;
+    justify-content: space-around;
+    text-align: center;
+    background-color: white;
+}
+#shr:hover{
+    background-color: grey;
+}
